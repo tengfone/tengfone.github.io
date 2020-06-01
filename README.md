@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://tengfone.github.io/">
-    <img alt="logo" src="https://i.ibb.co/wh7KvWc/favicon-32x32.png" width="60" />
+    <img alt="logo" src="https://i.ibb.co/wyqVbY8/android-chrome-512x512.png" width="60" />
   </a>
 </p>
+<h1 align="center">
   Teng Fone GitHub Pages
 </h1>
 
