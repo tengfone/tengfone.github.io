@@ -1,0 +1,31 @@
+.about{
+    a{
+        color: #64DEF7;
+        text-decoration: none;
+    }
+}
+
+.content{
+    max-width: 800px;
+    margin: auto;
+  }
+
+.greetings {
+    font-size: 3rem;
+    color: #BABABA;
+    margin-top: 15rem;
+}
+
+.icon{
+    margin-right: 3rem;
+    max-width: 100%;
+    height: auto;
+    filter: invert(81%) sepia(0%) saturate(1978%) hue-rotate(79deg) brightness(90%) contrast(88%);
+}
+
+.icon:hover{
+    filter: invert(60%) sepia(17%) saturate(3429%) hue-rotate(136deg) brightness(90%) contrast(101%);
+}
+
+
+
