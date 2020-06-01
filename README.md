@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tengfone.github.io/">
-    ![logo](/src/images/favicons/favicon-32x32.png)
+    <img alt="logo" src="../src/images/favicons/favicon-32x32.png" width="60" />
   </a>
 </p>
 <h1 align="center">
