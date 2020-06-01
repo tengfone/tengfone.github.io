@@ -1,15 +1,11 @@
 <p align="center">
   <a href="https://tengfone.github.io/">
-    <img alt="logo" src="../src/images/favicons/favicon-32x32.png" width="60" />
+    ![logo](/src/images/favicons/favicon-32x32.png)
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Teng Fone GitHub Pages
 </h1>
-
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
